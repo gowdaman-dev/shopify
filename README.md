@@ -1,6 +1,6 @@
 # Shopify Inventory Management System
 
-![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js) ![TypeScript](https://img.shields.io/badge/TypeScript-v4.9-blue?logo=typescript) ![MongoDB](https://img.shields.io/badge/MongoDB-v5-green?logo=mongodb) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-Animation-blueviolet) ![ShadCN](https://img.shields.io/badge/ShadCN-UI-green)
+![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js) ![TypeScript](https://img.shields.io/badge/TypeScript-v4.9-blue?logo=typescript) ![MongoDB](https://img.shields.io/badge/MongoDB-v5-green?logo=mongodb) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-Animation-blueviolet) ![ShadCN](https://img.shields.io/badge/ShadCN-UI-green)
 
 ## 📖 Overview
 
