@@ -4,7 +4,7 @@
 
 ## 📖 Overview
 
-This is a fully-featured **Inventory Management System** built with **Next.js 15** and **TypeScript**. The project leverages **Framer Motion** for animations, **MongoDB** as the database, and **ShadCN** for UI components, offering a seamless and robust experience for managing inventory.
+This is a fully-featured **Inventory Management System** built with **Next.js 14** and **TypeScript**. The project leverages **Framer Motion** for animations, **MongoDB** as the database, and **ShadCN** for UI components, offering a seamless and robust experience for managing inventory.
 
 ## 🚀 Features
 
